@@ -15,6 +15,8 @@ export default function Todo(props) {
         <Text style={styles.btnText}>Remove</Text>
       </TouchableOpacity>
     </View>
+
+    // thats it
   );
 }
 
